@@ -42,5 +42,5 @@ The goal is to develop a system that allows users to **search for songs based on
 - scikit-learn, pandas, numpy, etc.
 
 # 🧪 Example
-Input: "I'm in love with the shape of you"
-Output: 🎵 Ed Sheeran – Shape of You
+- Input: "I'm in love with the shape of you".
+- Output: 🎵 Ed Sheeran – Shape of You.
