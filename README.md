@@ -40,3 +40,7 @@ The goal is to develop a system that allows users to **search for songs based on
 - Hugging Face Transformers
 - BM25 (via rank_bm25)
 - scikit-learn, pandas, numpy, etc.
+
+# 🧪 Example
+Input: "I'm in love with the shape of you"
+Output: 🎵 Ed Sheeran – Shape of You
